@@ -1,0 +1,11 @@
+Extensions:
+Sound - 
+	Recorded custom sound effects for the ship lasers (3 types), alien death (2 types), and ship death (1 type)
+	Included a mute function when you press 'm'
+
+Multiple Waves -
+	Allowed a new wave to be created after all the aliens were destoyed, new wave has increased speed
+
+Score-
+	Score based off of killing each alien, with bottom aliens being worth more points than top aliens
+	Points carry over to a new wave

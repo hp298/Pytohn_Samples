@@ -1,0 +1,4 @@
+Controls:
+a - left
+d - right
+space - shoot
